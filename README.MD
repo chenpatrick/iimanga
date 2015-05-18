@@ -1,7 +1,7 @@
 By PC.
-iiManga = Juste un fanMade du jeu ii jeu de XAM pour un concours de jeu.
+iiManga = Juste un fanMade du jeu ii jeu de XAM (www.osxia.org) pour un concours de jeu.
 
-La musique est tiré de la bande son de ii
+
 
 Regle : Pareil que sur ii , a la difference que toucher la cible n'est pas suffisant , il faut etre sur la cible et appuyer sur une touche(fleches , ou 'a') pour prendre l'objet en question.D'ou l'utilité de la fléche du bas par exemple.
 
