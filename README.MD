@@ -14,6 +14,8 @@ a : superbe enchainement de karate du personnage
 (fleche du bas) : remet le personnage en position de combat.(Utile si on ne veux pas une image fixe qui bouge pas, appuyer souvent sur cette touche)
 
 Personnage : Sangoku HR sprite 
+</br>
+<img src ="HR/po11.jpg">
 
 	
 to be continued...
