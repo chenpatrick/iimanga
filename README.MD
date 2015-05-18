@@ -1,9 +1,9 @@
-By PC.
-iiManga = Juste un fanMade du jeu ii jeu de XAM (www.osxia.org) pour un concours de jeu.
+
+iiManga est  un fanMade du jeu ii jeu de XAM (www.osxia.org) pour un concours de jeu.
 
 
 
-Regle : Pareil que sur ii , a la difference que toucher la cible n'est pas suffisant , il faut etre sur la cible et appuyer sur une touche(fleches , ou 'a') pour prendre l'objet en question.D'ou l'utilité de la fléche du bas par exemple.
+Regle : Pareil que sur ii ,<code>toucher une cible en passant les obstacles</code> a la difference que toucher la cible n'est pas suffisant , il faut etre sur la cible et appuyer sur une touche(fleches , ou 'a') pour prendre l'objet en question.D'ou l'utilité de la fléche du bas par exemple.
 
 ==les touches==</br>
 <code>
